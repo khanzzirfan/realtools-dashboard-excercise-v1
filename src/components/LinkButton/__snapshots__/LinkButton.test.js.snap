@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LinkButton renders correctly with default styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: var(--colors-irisBlue);
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 19px;
+}
+
+<a
+    class="c0"
+    href="/people/edit/1"
+  >
+    Edit
+  </a>
+</DocumentFragment>
+`;

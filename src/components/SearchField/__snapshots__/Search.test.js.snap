@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchField should render filled css styles 1`] = `
+<DocumentFragment>
+  .c3 {
+  display: block;
+  font-size: 0.8125rem;
+  --labelColor: var(--colors-bayoux);
+}
+
+.c3:focus-within {
+  --labelColor: var(--colors-irisBlue);
+}
+
+.c2 + .c2 {
+  margin-top: 32px;
+}
+
+.c4 {
+  display: block;
+  color: var(--labelColor);
+}
+
+.c5 {
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 1.5px solid var(--colors-pigeon);
+  color: var(--colors-darkBlue);
+  font-size: 1.25rem;
+  line-height: 1.2;
+  padding: 4px 0 8px;
+}
+
+.c5:hover,
+.c5:focus {
+  outline: none;
+  border-bottom-color: var(--colors-irisBlue);
+}
+
+.c5::-webkit-input-placeholder,
+.c5::-webkit-input-placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c5::-webkit-input-placeholder,
+.c5::-moz-placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c5::-webkit-input-placeholder,
+.c5:-ms-input-placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c5::-webkit-input-placeholder,
+.c5::placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c6 {
+  margin-left: 12px;
+  margin-right: 6px;
+  margin-top: 12px;
+  margin-bottom: 11px;
+  border: none;
+  font-size: 0.875rem;
+  line-height: 1.25;
+  padding: 0;
+}
+
+.c1 {
+  height: 16px;
+  width: 16px;
+}
+
+.c1 > path {
+  fill: var(--colors-lynch);
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: var(----colors-zircon);
+  border: 1px solid var(--colors-selago);
+  box-shadow: inset 1px 2px 3px var(--colors-lightspindle);
+  border-radius: 20px;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.c0:hover {
+  border: 1px solid var(--colors-selago);
+  border-radius: 20px;
+  background: var(----colors-zircon);
+}
+
+.c0:active,
+.c0:focus {
+  background: var(----colors-zircon);
+  border: 1px solid var(--colors-selago);
+  box-shadow: inset 1px 2px 3px var(--colors-lightspindle);
+  border-radius: 20px;
+}
+
+<div
+    class="c0"
+  >
+    <svg
+      class="c1"
+    >
+      search.svg
+    </svg>
+    <label
+      class="c2 c3"
+    >
+      <span
+        class="c4"
+        for="search"
+      />
+      <input
+        aria-label="Search for employees"
+        class="c5 c6"
+        id="search"
+        placeholder="search employees"
+        type="search"
+        value="Ann"
+      />
+    </label>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`SearchField should renders correctly with default styles 1`] = `
+<DocumentFragment>
+  .c3 {
+  display: block;
+  font-size: 0.8125rem;
+  --labelColor: var(--colors-bayoux);
+}
+
+.c3:focus-within {
+  --labelColor: var(--colors-irisBlue);
+}
+
+.c2 + .c2 {
+  margin-top: 32px;
+}
+
+.c4 {
+  display: block;
+  color: var(--labelColor);
+}
+
+.c5 {
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 1.5px solid var(--colors-pigeon);
+  color: var(--colors-darkBlue);
+  font-size: 1.25rem;
+  line-height: 1.2;
+  padding: 4px 0 8px;
+}
+
+.c5:hover,
+.c5:focus {
+  outline: none;
+  border-bottom-color: var(--colors-irisBlue);
+}
+
+.c5::-webkit-input-placeholder,
+.c5::-webkit-input-placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c5::-webkit-input-placeholder,
+.c5::-moz-placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c5::-webkit-input-placeholder,
+.c5:-ms-input-placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c5::-webkit-input-placeholder,
+.c5::placeholder {
+  color: var(--colors-bayoux);
+}
+
+.c6 {
+  margin-left: 12px;
+  margin-right: 6px;
+  margin-top: 12px;
+  margin-bottom: 11px;
+  border: none;
+  font-size: 0.875rem;
+  line-height: 1.25;
+  padding: 0;
+}
+
+.c1 {
+  height: 16px;
+  width: 16px;
+}
+
+.c1 > path {
+  fill: var(--colors-lynch);
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.c0:hover {
+  border: 1px solid var(--colors-selago);
+  border-radius: 20px;
+  background: var(----colors-zircon);
+}
+
+.c0:active,
+.c0:focus {
+  background: var(----colors-zircon);
+  border: 1px solid var(--colors-selago);
+  box-shadow: inset 1px 2px 3px var(--colors-lightspindle);
+  border-radius: 20px;
+}
+
+<div
+    class="c0"
+  >
+    <svg
+      class="c1"
+    >
+      search.svg
+    </svg>
+    <label
+      class="c2 c3"
+    >
+      <span
+        class="c4"
+        for="search"
+      />
+      <input
+        aria-label="Search for employees"
+        class="c5 c6"
+        id="search"
+        placeholder="search employees"
+        type="search"
+        value=""
+      />
+    </label>
+  </div>
+</DocumentFragment>
+`;

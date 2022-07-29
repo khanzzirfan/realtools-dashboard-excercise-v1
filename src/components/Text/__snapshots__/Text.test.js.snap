@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField should renders correctly as p element and body typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodyBold typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodyCaption typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 400;
+  font-size: 0.8125rem;
+  line-height: 1.23;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodyLead typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 1.44;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodyMedium typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodySmall typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.29;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodySmallBold typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 1.29;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as p element and bodySmallMedium typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.58;
+  margin: 0;
+}
+
+<p
+    class="c0"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as span element and h1 typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 500;
+  font-size: 1.875rem;
+  line-height: 1.34;
+  margin: 0;
+}
+
+<span
+    class="c0"
+  >
+    Contractor
+  </span>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as span element and h2typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 500;
+  font-size: 1.625rem;
+  line-height: 1.23;
+  margin: 0;
+}
+
+<span
+    class="c0"
+  >
+    Contractor
+  </span>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as span element and h3 typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  margin: 0;
+}
+
+<span
+    class="c0"
+  >
+    Contractor
+  </span>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders correctly as span element and h4 typography styles 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 500;
+  font-size: 1.375rem;
+  line-height: 1.28;
+  margin: 0;
+}
+
+<span
+    class="c0"
+  >
+    Contractor
+  </span>
+</DocumentFragment>
+`;
+
+exports[`TextField should renders light text as p element 1`] = `
+<DocumentFragment>
+  .c0 {
+  font-weight: 400;
+  font-size: 0.8125rem;
+  line-height: 1.23;
+  margin: 0;
+}
+
+.c1 {
+  color: var(--colors-lynch);
+}
+
+<p
+    class="c0 c1"
+  >
+    Contractor
+  </p>
+</DocumentFragment>
+`;
